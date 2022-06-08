@@ -137,7 +137,7 @@ BLOCK_EXPLORER_URL: array[TChain] of string = (
 
 ## Test code for XDC3Delphi SDK
 
-The following test project files can be used for calling XRC20 functions in XDC3Delphi SDK
+The following test project files can be used for calling XRC20 & XRC721 functions in XDC3Delphi SDK
 
 SDK_DELPHI_GUI.dpr 
 
