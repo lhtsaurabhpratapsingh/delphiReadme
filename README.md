@@ -147,8 +147,8 @@ XDC3_DELPHI.dfm
 
 XDC3_DELPHI.pas
 
-> How to copy hash or Private key ?
->> After perforning operations output will be on GUI pop-up.
+## How to copy Transaction hash or Private key ?
+> After perforning operations output will be on GUI pop-up.
 >> Click on pop-up result and press ctrl-c and paste result on notepad.
 >> Then use that result
 
